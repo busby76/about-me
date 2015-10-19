@@ -1,0 +1,1 @@
+document.getElementByClass("age").innerHTML = Date();
